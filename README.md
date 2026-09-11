@@ -10,7 +10,7 @@ The framework combines lightweight Green Learning (GL) modules with Federated Le
 
 The FGL framework consists of three main modules:
 
-- **Module 1:** PCA-based feature transformation using distributed PCA (DPCA)
+- **Module 1:** Saab-based feature transformation using distributed PCA (DPCA)
 - **Module 2:** RFT-based feature selection
 - **Module 3:** Lightweight MLP-based beamforming prediction
 
