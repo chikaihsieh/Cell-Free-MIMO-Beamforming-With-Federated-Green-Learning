@@ -22,7 +22,7 @@ This project implements an interpretable, low-complexity, and communication-effi
 ## Repository Structure
 ### 1. cell_free_data_generator20260911.py
 - Generates 2D/3D geometry-based channel state information (CSI) with path loss (3GPP Urban Micro/Macro model) and Rician fading.
-- Computes optimal Zero-Forcing (ZF) precoding vectors and performs Water-filling power allocation.
+- Computes MMSE precoding vectors and performs Water-filling power allocation.
 - Simulates pilot signal reception under imperfect CSI conditions.
 - Calculates sum-rate benchmarks and exports structured datasets (.npz).
 
