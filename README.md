@@ -11,7 +11,7 @@ Traditional deep learning-based beamforming requires high computational resource
 This project implements an interpretable, low-complexity, and communication-efficient Federated Green Learning (FGL) framework. Key capabilities include:
 
 - Subspace Approximation with Adjusted Bias (Saab) / PCA: Multi-stage feature extraction for spatially distributed pilot observations.
-- Heterogeneous & Distributed PCA (HPCA / DPCA): Enables local subspace approximation across distributed Access Points (APs) with non-i.i.d. data and varying capacity ratios.
+- Heterogeneous & Distributed PCA (HPCA / DPCA): Enables local subspace approximation across distributed Access Points (APs) with varying capacity ratios.
 - Relevant Feature Test (RFT): Supervised feature selection method to select the most informative features with minimal computational overhead.
 - Heterogeneous Federated Learning: Aggregates models with varying feature input sizes across client APs without requiring raw CSI sharing.
 
