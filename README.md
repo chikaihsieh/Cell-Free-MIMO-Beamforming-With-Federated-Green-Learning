@@ -1,4 +1,4 @@
-# Heterogeneous Federated Green Learning for Cell-Free MIMO Beamforming
+# Cell-Free MIMO Beamforming With Federated Green Learning
 
 This repository contains the Python implementation of the Heterogeneous Federated Green Learning (HFGL) framework for cell-free Massive MIMO beamforming, as well as the synthetic dataset generator designed for simulating channel state information (CSI) and optimizing sum-rate performance under resource-constrained and heterogeneous edge environments.
 
